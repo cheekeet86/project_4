@@ -9,17 +9,18 @@ Blank
 Blank
 
 ## Folder Structure
-.
-├── code            # juypter notebook source code 
-├── data            # datasets
-|   ├── 1_raw       # data downloaded from kaggle
-|   ├── 2_input     # extracted files from 1_raw      
-|   ├── 3_clean     # cleaned dataframes
-|   ├── 4_output    # for kaggle submissions
-├── documents       # requirements, presentations             
-├── images          # pictures and media   
-└── README.md
 
+    .
+    ├── code            # source code 
+    ├── data            # datasets
+    |   ├── 1_raw       # data downloaded from kaggle
+    |   ├── 2_input     # extracted files from 1_raw      
+    |   ├── 3_clean     # cleaned dataframes
+    |   └── 4_output    # for kaggle submissions
+    ├── documents       # requirements, presentations             
+    ├── images          # pictures and media   
+    └── README.md
+    
 ## References
 
 Blank
