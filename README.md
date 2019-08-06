@@ -4,14 +4,18 @@
 
 Blank
 
-## Dataset
+## Datasets
 
 Blank
+
+## Project Planning
+
+[Click Here](https://docs.google.com/spreadsheets/d/1D7kW-O84Uw8OBh_lDO1cWSdUZuZpYE5IqDCNe0ANCq0/edit?usp=sharing)
 
 ## Folder Structure
 
     .
-    ├── code            # source code 
+    ├── code            # source code
     ├── data            # datasets
     |   ├── 1_raw       # data downloaded from kaggle
     |   ├── 2_input     # extracted files from 1_raw      
