@@ -25,7 +25,7 @@ We are given the following datasets:
 
 We started by examining the different datasets and coming up with an overall framework on how we should approach the data cleaning process before splitting up the data cleaning work. We then combined the test, train and spray datasets and performed data visualisation and feature engineering on the combined dataset. The imbalanced dataset is a key challenge and we have attempted to address this with two different oversampling methods namely, Synthetic Minority Over-sampling Technique (SMOTE) and random oversampling. SMOTE method appears to be more effective compared to random oversampling as it gives a higher ROC score during the subsequent modeling phase. We then tried different regression techniques (including decision tree, random forest, K-Nearest-Neighbour and AdaBoost). We selected RandomForest as our choice model as it gives the highest ROC score and did hyperparameter tuning to see if we could get an even higher score. 
 
-Click [here] (https://docs.google.com/spreadsheets/d/1D7kW-O84Uw8OBh_lDO1cWSdUZuZpYE5IqDCNe0ANCq0/edit?usp=sharing) for further details on the work allocation and project planning phase. 
+Click [here](https://docs.google.com/spreadsheets/d/1D7kW-O84Uw8OBh_lDO1cWSdUZuZpYE5IqDCNe0ANCq0/edit?usp=sharing) for further details on the work allocation and project planning phase. 
 
 
 
